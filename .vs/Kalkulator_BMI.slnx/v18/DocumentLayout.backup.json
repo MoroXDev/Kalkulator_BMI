@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|solutionrelative:kalkulator_bmi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|c:\\users\\1ap\\desktop\\kalkulator_bmi\\kalkulator_bmi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|C:\\Users\\1ap\\Desktop\\Kalkulator_BMI\\kalkulator_bmi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|solutionrelative:kalkulator_bmi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|c:\\users\\1ap\\desktop\\kalkulator_bmi\\kalkulator_bmi\\kalkulator_bmi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|solutionrelative:kalkulator_bmi\\kalkulator_bmi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|c:\\users\\1ap\\desktop\\kalkulator_bmi\\kalkulator_bmi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|solutionrelative:kalkulator_bmi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|c:\\users\\1ap\\desktop\\kalkulator_bmi\\kalkulator_bmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|solutionrelative:kalkulator_bmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|c:\\users\\1ap\\desktop\\kalkulator_bmi\\kalkulator_bmi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|solutionrelative:kalkulator_bmi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|c:\\users\\1ap\\desktop\\kalkulator_bmi\\kalkulator_bmi\\kalkulator_bmi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FAC6C6D-CA77-48E4-E550-B43F72A7BD50}|Kalkulator_BMI\\Kalkulator_BMI.csproj|solutionrelative:kalkulator_bmi\\kalkulator_bmi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,21 +42,21 @@
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\1ap\\Desktop\\Kalkulator_BMI\\Kalkulator_BMI\\Form1.cs",
               "RelativeDocumentMoniker": "Kalkulator_BMI\\Form1.cs",
-              "ToolTip": "C:\\Users\\1ap\\Desktop\\Kalkulator_BMI\\Kalkulator_BMI\\Form1.cs [Projekt]*",
-              "RelativeToolTip": "Kalkulator_BMI\\Form1.cs [Projekt]*",
+              "ToolTip": "C:\\Users\\1ap\\Desktop\\Kalkulator_BMI\\Kalkulator_BMI\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Kalkulator_BMI\\Form1.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T06:35:30.421Z",
               "EditorCaption": " [Projekt]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\1ap\\Desktop\\Kalkulator_BMI\\Kalkulator_BMI\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Kalkulator_BMI\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\1ap\\Desktop\\Kalkulator_BMI\\Kalkulator_BMI\\Form1.Designer.cs",
               "RelativeToolTip": "Kalkulator_BMI\\Form1.Designer.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T06:31:53.59Z",
               "EditorCaption": ""
@@ -76,8 +76,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Kalkulator_BMI",
+              "DocumentIndex": 4,
+              "Title": "Kalkulator_BMI.csproj",
               "DocumentMoniker": "C:\\Users\\1ap\\Desktop\\Kalkulator_BMI\\Kalkulator_BMI\\Kalkulator_BMI.csproj",
               "RelativeDocumentMoniker": "Kalkulator_BMI\\Kalkulator_BMI.csproj",
               "ToolTip": "C:\\Users\\1ap\\Desktop\\Kalkulator_BMI\\Kalkulator_BMI\\Kalkulator_BMI.csproj",
@@ -93,9 +93,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\1ap\\Desktop\\Kalkulator_BMI\\Kalkulator_BMI\\Form1.cs",
               "RelativeDocumentMoniker": "Kalkulator_BMI\\Form1.cs",
-              "ToolTip": "C:\\Users\\1ap\\Desktop\\Kalkulator_BMI\\Kalkulator_BMI\\Form1.cs*",
-              "RelativeToolTip": "Kalkulator_BMI\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\1ap\\Desktop\\Kalkulator_BMI\\Kalkulator_BMI\\Form1.cs",
+              "RelativeToolTip": "Kalkulator_BMI\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T06:14:02.362Z",
               "EditorCaption": ""

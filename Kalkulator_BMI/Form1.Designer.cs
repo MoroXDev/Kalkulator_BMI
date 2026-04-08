@@ -66,6 +66,7 @@
             button_oblicz.TabIndex = 2;
             button_oblicz.Text = "Oblicz BMI";
             button_oblicz.UseVisualStyleBackColor = true;
+            button_oblicz.Click += button_oblicz_Click;
             // 
             // textBox_wzrost
             // 
