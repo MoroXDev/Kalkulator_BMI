@@ -28,69 +28,68 @@
         /// </summary>
         private void InitializeComponent()
         {
-            label1 = new Label();
-            label2 = new Label();
-            button1 = new Button();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            label3 = new Label();
+            label_wzrost = new Label();
+            label_waga = new Label();
+            button_oblicz = new Button();
+            textBox_wzrost = new TextBox();
+            textBox_waga = new TextBox();
+            label_bmi = new Label();
             progressBar1 = new ProgressBar();
             SuspendLayout();
             // 
-            // label1
+            // label_wzrost
             // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 15F);
-            label1.Location = new Point(138, 103);
-            label1.Name = "label1";
-            label1.Size = new Size(108, 28);
-            label1.TabIndex = 0;
-            label1.Text = "Wzrost [m]";
+            label_wzrost.AutoSize = true;
+            label_wzrost.Font = new Font("Segoe UI", 15F);
+            label_wzrost.Location = new Point(138, 103);
+            label_wzrost.Name = "label_wzrost";
+            label_wzrost.Size = new Size(108, 28);
+            label_wzrost.TabIndex = 0;
+            label_wzrost.Text = "Wzrost [m]";
             // 
-            // label2
+            // label_waga
             // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 15F);
-            label2.Location = new Point(358, 103);
-            label2.Name = "label2";
-            label2.Size = new Size(101, 28);
-            label2.TabIndex = 1;
-            label2.Text = "Waga [kg]";
-            label2.Click += label2_Click;
+            label_waga.AutoSize = true;
+            label_waga.Font = new Font("Segoe UI", 15F);
+            label_waga.Location = new Point(358, 103);
+            label_waga.Name = "label_waga";
+            label_waga.Size = new Size(101, 28);
+            label_waga.TabIndex = 1;
+            label_waga.Text = "Waga [kg]";
             // 
-            // button1
+            // button_oblicz
             // 
-            button1.Font = new Font("Segoe UI", 15F);
-            button1.Location = new Point(197, 200);
-            button1.Name = "button1";
-            button1.Size = new Size(200, 37);
-            button1.TabIndex = 2;
-            button1.Text = "Oblicz BMI";
-            button1.UseVisualStyleBackColor = true;
+            button_oblicz.Font = new Font("Segoe UI", 15F);
+            button_oblicz.Location = new Point(197, 200);
+            button_oblicz.Name = "button_oblicz";
+            button_oblicz.Size = new Size(200, 37);
+            button_oblicz.TabIndex = 2;
+            button_oblicz.Text = "Oblicz BMI";
+            button_oblicz.UseVisualStyleBackColor = true;
             // 
-            // textBox1
+            // textBox_wzrost
             // 
-            textBox1.Location = new Point(138, 134);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(100, 23);
-            textBox1.TabIndex = 3;
+            textBox_wzrost.Location = new Point(138, 134);
+            textBox_wzrost.Name = "textBox_wzrost";
+            textBox_wzrost.Size = new Size(100, 23);
+            textBox_wzrost.TabIndex = 3;
             // 
-            // textBox2
+            // textBox_waga
             // 
-            textBox2.Location = new Point(358, 134);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(100, 23);
-            textBox2.TabIndex = 4;
+            textBox_waga.Location = new Point(358, 134);
+            textBox_waga.Name = "textBox_waga";
+            textBox_waga.Size = new Size(100, 23);
+            textBox_waga.TabIndex = 4;
             // 
-            // label3
+            // label_bmi
             // 
-            label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 15F);
-            label3.Location = new Point(192, 265);
-            label3.Name = "label3";
-            label3.Size = new Size(105, 28);
-            label3.TabIndex = 5;
-            label3.Text = "Twoje BMI:";
+            label_bmi.AutoSize = true;
+            label_bmi.Font = new Font("Segoe UI", 15F);
+            label_bmi.Location = new Point(192, 265);
+            label_bmi.Name = "label_bmi";
+            label_bmi.Size = new Size(105, 28);
+            label_bmi.TabIndex = 5;
+            label_bmi.Text = "Twoje BMI:";
             // 
             // progressBar1
             // 
@@ -105,12 +104,12 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(progressBar1);
-            Controls.Add(label3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
-            Controls.Add(button1);
-            Controls.Add(label2);
-            Controls.Add(label1);
+            Controls.Add(label_bmi);
+            Controls.Add(textBox_waga);
+            Controls.Add(textBox_wzrost);
+            Controls.Add(button_oblicz);
+            Controls.Add(label_waga);
+            Controls.Add(label_wzrost);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -126,5 +125,11 @@
         private TextBox textBox2;
         private Label label3;
         private ProgressBar progressBar1;
+        private Button button_oblicz;
+        private Label label_waga;
+        private Label label_wzrost;
+        private TextBox textBox_wzrost;
+        private TextBox textBox_waga;
+        private Label label_bmi;
     }
 }

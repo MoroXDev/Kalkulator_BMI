@@ -1,0 +1,17 @@
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\bin\Debug\net10.0-windows\Kalkulator_BMI.exe
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\bin\Debug\net10.0-windows\Kalkulator_BMI.deps.json
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\bin\Debug\net10.0-windows\Kalkulator_BMI.runtimeconfig.json
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\bin\Debug\net10.0-windows\Kalkulator_BMI.dll
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\bin\Debug\net10.0-windows\Kalkulator_BMI.pdb
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\Kalkulator_BMI.Form1.resources
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\Kalkulator_BMI.csproj.GenerateResource.cache
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\Kalkulator_BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\Kalkulator_BMI.AssemblyInfoInputs.cache
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\Kalkulator_BMI.AssemblyInfo.cs
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\Kalkulator_BMI.csproj.CoreCompileInputs.cache
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\Kalkulator_BMI.sourcelink.json
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\Kalkulator_BMI.dll
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\refint\Kalkulator_BMI.dll
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\Kalkulator_BMI.pdb
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\Kalkulator_BMI.genruntimeconfig.cache
+C:\Users\1ap\Desktop\Kalkulator_BMI\Kalkulator_BMI\obj\Debug\net10.0-windows\ref\Kalkulator_BMI.dll

@@ -5,11 +5,13 @@ namespace Kalkulator_BMI
         public Form1()
         {
             InitializeComponent();
+            progressBar1.Minimum = 16;
+            progressBar1.Maximum = 40;
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void oblicz_button_Click(object sender, EventArgs e)
         {
-
+           
         }
     }
 }
